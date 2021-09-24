@@ -1,1 +1,2 @@
 tulis ulang dari lokal
+tulis dari gitlab
