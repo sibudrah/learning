@@ -1,4 +1,8 @@
 upload
 
+<<<<<<< HEAD
 
 nambah di lokal
+=======
+edit dari gitlab
+>>>>>>> origin/master
