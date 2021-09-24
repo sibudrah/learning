@@ -1,3 +1,7 @@
 tulis ulang dari lokal
 tulis dari gitlab
+<<<<<<< HEAD
 update dr lokal test fetch
+=======
+update dari gitlab test fetch
+>>>>>>> origin/master
